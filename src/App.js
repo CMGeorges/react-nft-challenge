@@ -4,6 +4,7 @@ import "./App.css";
 import CollectionCard from "./components/CollectionCard";
 import Header from "./components/Header";
 import PunkList from "./components/PunkList";
+import Main from "./components/Main";
 
 function App() {
   const [punkListData, setPunkListData] = useState([]);
@@ -24,6 +25,7 @@ function App() {
   return (
     <div className="app">
       <Header />
+      <Main />
       <PunkList  punkListData={punkListData}/>
     </div>
   );
