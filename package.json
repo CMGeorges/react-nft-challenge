@@ -16,11 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-<<<<<<< Updated upstream
     "deploy":"gh-pages -d build",
-=======
-    "deploy": "gh-pages -d build",
->>>>>>> Stashed changes
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
