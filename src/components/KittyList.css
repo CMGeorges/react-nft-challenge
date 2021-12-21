@@ -1,0 +1,12 @@
+.kittyList {
+    cursor: pointer;
+    display: flex;
+    overflow: scroll;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid white;
+}
+
+.kittyList::-webkit-scrollbar {
+    display: none;
+}

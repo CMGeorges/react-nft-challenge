@@ -29,6 +29,7 @@
 }
 
 .searchInput {
+    cursor: text;
     background-color: transparent;
     border: none;
     width: 100%;
@@ -42,6 +43,7 @@
 }
 
 .headerItems > p {
+    cursor: pointer;
     margin: 10px;
 }
 
@@ -55,6 +57,7 @@
 }
 
 .themeSwitchContainer {
+    cursor: pointer;
     display: flex;
     background-color: #1c1c1e;
     border-radius: 50px;
