@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc18cb63.chunk.css",
-    "main.js": "/static/js/main.336fe2e3.chunk.js",
-    "main.js.map": "/static/js/main.336fe2e3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.06b73481.js",
-    "runtime-main.js.map": "/static/js/runtime-main.06b73481.js.map",
-    "static/js/2.549d08b6.chunk.js": "/static/js/2.549d08b6.chunk.js",
-    "static/js/2.549d08b6.chunk.js.map": "/static/js/2.549d08b6.chunk.js.map",
-    "static/js/3.697b2291.chunk.js": "/static/js/3.697b2291.chunk.js",
-    "static/js/3.697b2291.chunk.js.map": "/static/js/3.697b2291.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fc18cb63.chunk.css.map": "/static/css/main.fc18cb63.chunk.css.map",
-    "static/js/2.549d08b6.chunk.js.LICENSE.txt": "/static/js/2.549d08b6.chunk.js.LICENSE.txt",
-    "static/media/cryptopunk-logo.8bee49d5.png": "/static/media/cryptopunk-logo.8bee49d5.png",
-    "static/media/weth.4101f1da.png": "/static/media/weth.4101f1da.png"
+    "main.css": "/react-nft-challenge/static/css/main.fc18cb63.chunk.css",
+    "main.js": "/react-nft-challenge/static/js/main.336fe2e3.chunk.js",
+    "main.js.map": "/react-nft-challenge/static/js/main.336fe2e3.chunk.js.map",
+    "runtime-main.js": "/react-nft-challenge/static/js/runtime-main.7bb1f989.js",
+    "runtime-main.js.map": "/react-nft-challenge/static/js/runtime-main.7bb1f989.js.map",
+    "static/js/2.549d08b6.chunk.js": "/react-nft-challenge/static/js/2.549d08b6.chunk.js",
+    "static/js/2.549d08b6.chunk.js.map": "/react-nft-challenge/static/js/2.549d08b6.chunk.js.map",
+    "static/js/3.697b2291.chunk.js": "/react-nft-challenge/static/js/3.697b2291.chunk.js",
+    "static/js/3.697b2291.chunk.js.map": "/react-nft-challenge/static/js/3.697b2291.chunk.js.map",
+    "index.html": "/react-nft-challenge/index.html",
+    "static/css/main.fc18cb63.chunk.css.map": "/react-nft-challenge/static/css/main.fc18cb63.chunk.css.map",
+    "static/js/2.549d08b6.chunk.js.LICENSE.txt": "/react-nft-challenge/static/js/2.549d08b6.chunk.js.LICENSE.txt",
+    "static/media/cryptopunk-logo.8bee49d5.png": "/react-nft-challenge/static/media/cryptopunk-logo.8bee49d5.png",
+    "static/media/weth.4101f1da.png": "/react-nft-challenge/static/media/weth.4101f1da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.06b73481.js",
+    "static/js/runtime-main.7bb1f989.js",
     "static/js/2.549d08b6.chunk.js",
     "static/css/main.fc18cb63.chunk.css",
     "static/js/main.336fe2e3.chunk.js"
